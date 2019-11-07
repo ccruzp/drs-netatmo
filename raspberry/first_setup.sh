@@ -13,7 +13,7 @@ pip install nxppy
 pip3 install nxppy
 
 echo "make sure spi authorized in configured !"
-
+exit 0 
 
 cd $UNZIPPED_DEAMON
 
