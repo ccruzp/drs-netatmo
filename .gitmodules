@@ -1,0 +1,3 @@
+[submodule "raspberry/nxppy"]
+	path = raspberry/nxppy
+	url = https://github.com/svvitale/nxppy
