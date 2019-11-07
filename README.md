@@ -1,2 +1,3 @@
-# drs-embedded
+# drs-netatmo project
+
 Device rental service
