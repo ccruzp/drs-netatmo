@@ -1,0 +1,14 @@
+<map id="NTAG 42x DNA / TT" name="NTAG 42x DNA / TT">
+<area shape="rect" id="node1" href="$d5/d22/group__phalMfNtag42xDna__MemoryConfiguration.html" title="These Components implement the MIFARE NTAG 42xDNA Memory and Configuration Management related command..." alt="" coords="363,5,581,32"/>
+<area shape="rect" id="node3" href="$d3/da2/group__phalMfNtag42xDna__DataManagement.html" title="These Components implement the MIFARE NTAG 42xDNA Data Management related commands. " alt="" coords="373,56,571,83"/>
+<area shape="rect" id="node4" href="$d1/d50/group__phalMfNtag42xDna__OriginalityCheck.html" title="These Components implement the MIFARE NTAG 42xDNA Originality Check functions. " alt="" coords="377,107,567,133"/>
+<area shape="rect" id="node5" href="$d7/df5/group__phalMfNtag42xDna__Cust__Err__Codes.html" title="Error Codes" alt="" coords="427,157,517,184"/>
+<area shape="rect" id="node6" href="$d5/d5e/group__phalMfNtag42xDna__TagTamper.html" title="These Components implement the MIFARE NTAG 42xDNA Tag Tamper Protection functions. " alt="" coords="393,208,551,235"/>
+<area shape="rect" id="node7" href="$d6/de7/group__phalMfNtag42xDna__KeyManagement.html" title="These Components implement the MIFARE NTAG 42xDNA Key Management related commands. " alt="" coords="375,259,569,285"/>
+<area shape="rect" id="node8" href="$de/d7d/group__phalMfNtag42xDna__Miscellaneous.html" title="These Components implement the MIFARE DESFire Light Miscellaneous functions. " alt="" coords="383,309,561,336"/>
+<area shape="rect" id="node10" href="$d7/d10/group__phalMfNtag42xDna__FileManagement.html" title="These Components implement the MIFARE NTAG 42xDNA File Management related commands. " alt="" coords="377,360,567,387"/>
+<area shape="rect" id="node11" href="$d6/ddc/group__phalMfNtag42xDna__ISO7816.html" title="These Components implement the MIFARE NTAG 42xDNA ISO/IEC 7816&#45;4 Basic commands. " alt="" coords="399,411,545,437"/>
+<area shape="rect" id="node12" href="$d8/d7c/group__phalMfNtag42xDna__SecureMessaging.html" title="These Components implement the MIFARE MFNTAG42XDNA Secure Messaging related commands. " alt="" coords="373,461,571,488"/>
+<area shape="rect" id="node13" href="$d0/d07/group__phalMfNtag42xDna__Sw.html" title="Component : Software" alt="" coords="397,512,547,539"/>
+<area shape="rect" id="node9" href="$d3/d6e/group__phal.html" title="Contains Application specific implementations for various contactless cards (MIFARE DESFire..." alt="" coords="5,259,128,285"/>
+</map>

@@ -1,0 +1,4 @@
+ADD_SUBDIRECTORY(Nfcrdlib_SimplifiedAPI_EMVCo)
+ADD_SUBDIRECTORY(Nfcrdlib_SimplifiedAPI_EMVCo_Analog)
+ADD_SUBDIRECTORY(Nfcrdlib_SimplifiedAPI_EMVCo_Interop)
+ADD_SUBDIRECTORY(NfcrdlibEx11_ISO10373_PCD)

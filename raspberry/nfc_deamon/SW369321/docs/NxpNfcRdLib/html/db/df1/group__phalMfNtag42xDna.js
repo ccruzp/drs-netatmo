@@ -1,0 +1,27 @@
+var group__phalMfNtag42xDna =
+[
+    [ "Component : Software", "d0/d07/group__phalMfNtag42xDna__Sw.html", "d0/d07/group__phalMfNtag42xDna__Sw" ],
+    [ "Error Codes", "d7/df5/group__phalMfNtag42xDna__Cust__Err__Codes.html", "d7/df5/group__phalMfNtag42xDna__Cust__Err__Codes" ],
+    [ "Commands_SecureMessaging", "d8/d7c/group__phalMfNtag42xDna__SecureMessaging.html", "d8/d7c/group__phalMfNtag42xDna__SecureMessaging" ],
+    [ "Commands_MemoryConfiguration", "d5/d22/group__phalMfNtag42xDna__MemoryConfiguration.html", "d5/d22/group__phalMfNtag42xDna__MemoryConfiguration" ],
+    [ "Commands_KeyManagement", "d6/de7/group__phalMfNtag42xDna__KeyManagement.html", "d6/de7/group__phalMfNtag42xDna__KeyManagement" ],
+    [ "Commands_FileManagement", "d7/d10/group__phalMfNtag42xDna__FileManagement.html", "d7/d10/group__phalMfNtag42xDna__FileManagement" ],
+    [ "Commands_DataManagement", "d3/da2/group__phalMfNtag42xDna__DataManagement.html", "d3/da2/group__phalMfNtag42xDna__DataManagement" ],
+    [ "Commands_ISO7816", "d6/ddc/group__phalMfNtag42xDna__ISO7816.html", "d6/ddc/group__phalMfNtag42xDna__ISO7816" ],
+    [ "Commands_OriginalityCheck", "d1/d50/group__phalMfNtag42xDna__OriginalityCheck.html", "d1/d50/group__phalMfNtag42xDna__OriginalityCheck" ],
+    [ "Commands_TagTamper", "d5/d5e/group__phalMfNtag42xDna__TagTamper.html", "d5/d5e/group__phalMfNtag42xDna__TagTamper" ],
+    [ "Commands_Miscellaneous", "de/d7d/group__phalMfNtag42xDna__Miscellaneous.html", "de/d7d/group__phalMfNtag42xDna__Miscellaneous" ],
+    [ "PHAL_MFNTAG42XDNA_ORIGINALITY_KEY_FIRST", "db/df1/group__phalMfNtag42xDna.html#ga71866f63470241f962f3b86866f93e0f", null ],
+    [ "PHAL_MFNTAG42XDNA_ORIGINALITY_KEY_LAST", "db/df1/group__phalMfNtag42xDna.html#ga7aed1e72ce4404920faec74e06c6287a", null ],
+    [ "PHAL_MFNTAG42XDNA_APP_KEY_LAST", "db/df1/group__phalMfNtag42xDna.html#ga2f8436da16f237b01e23dd5c41e652b1", null ],
+    [ "PHAL_MFNTAG42XDNA_MAC_DATA_INCOMPLETE", "db/df1/group__phalMfNtag42xDna.html#ga3b91305a6213404d593221f2bb4311f2", null ],
+    [ "PHAL_MFNTAG42XDNA_COMMUNICATION_MAC_ON_RC", "db/df1/group__phalMfNtag42xDna.html#gae453a356ec617199c4d7f66dc57a71aa", null ],
+    [ "PHAL_MFNTAG42XDNA_AUTHENTICATE_RESET", "db/df1/group__phalMfNtag42xDna.html#ga0fe6afc803836fce1e69af552e3ac7fd", null ],
+    [ "PHAL_MFNTAG42XDNA_COMMUNICATION_PLAIN", "db/df1/group__phalMfNtag42xDna.html#ga3ebf4b975b02cb39c64663e7664c2bfd", null ],
+    [ "PHAL_MFNTAG42XDNA_COMMUNICATION_PLAIN_1", "db/df1/group__phalMfNtag42xDna.html#gae50a05416ce002b4d39b684afcfbcacc", null ],
+    [ "PHAL_MFNTAG42XDNA_COMMUNICATION_MACD", "db/df1/group__phalMfNtag42xDna.html#gace4d9cb81f665226c6e4005b823506c3", null ],
+    [ "PHAL_MFNTAG42XDNA_COMMUNICATION_ENC", "db/df1/group__phalMfNtag42xDna.html#ga8553c50f40f8ebb92cf19eeb7457d4ce", null ],
+    [ "PHAL_MFNTAG42XDNA_KEY_TYPE_2K3DES", "db/df1/group__phalMfNtag42xDna.html#gaa6ace5f7d43b1bc427df594a6cf40316", null ],
+    [ "PHAL_MFNTAG42XDNA_KEY_TYPE_3K3DES", "db/df1/group__phalMfNtag42xDna.html#ga66446a37e30808e4f1c4d75fc66dfc89", null ],
+    [ "PHAL_MFNTAG42XDNA_KEY_TYPE_AES128", "db/df1/group__phalMfNtag42xDna.html#gaba6cad1fb7f5c0a7f970bcc2faeb926f", null ]
+];
